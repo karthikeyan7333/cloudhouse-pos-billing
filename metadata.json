@@ -1,0 +1,6 @@
+{
+  "name": "CloudHouse POS - Textile & Retail Billing",
+  "description": "Full-stack POS and Billing Software for textile and retail businesses with multi-variant inventory, GST billing, returns, ledger, reports, and mobile admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
