@@ -28,14 +28,6 @@ CloudHouse POS is a comprehensive retail management platform designed to handle 
 
 ---
 
-## 3. URLs & Demo Links
-
-- **Live Application URL**: `https://ais-dev-7dh5mto4bvoent5zienkbz-46535382536.asia-southeast1.run.app`
-- **Direct Mobile Admin URL**: `https://ais-dev-7dh5mto4bvoent5zienkbz-46535382536.asia-southeast1.run.app/admin/mobile`
-- **POS Terminal URL**: `https://ais-dev-7dh5mto4bvoent5zienkbz-46535382536.asia-southeast1.run.app/pos`
-- **Health Check Endpoint**: `https://ais-dev-7dh5mto4bvoent5zienkbz-46535382536.asia-southeast1.run.app/api/health`
-
----
 
 ## 4. Test Credentials
 
